@@ -6,9 +6,9 @@ Bu proje; STM32F446RE mikrodenetleyici ve MPU6050 IMU sensörü kullanarak temel
 
 ## 🎬 Proje Demosu
 
-![Uçuş Kontrolcüsü Demo](media/ledler_ve_mpu6050.gif)
+![Kontrolcü](media/ledler_ve_mpu6050.gif)
+![Python Game 3D Uçak](media/pythongame.gif)
 
----
 ---
 
 ### Sistem Mimarisi ve Çalışma Mantığı
