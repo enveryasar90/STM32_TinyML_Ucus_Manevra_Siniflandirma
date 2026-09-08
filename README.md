@@ -20,7 +20,13 @@ Bu proje; STM32F446RE mikrodenetleyici ve MPU6050 IMU sensörü kullanarak temel
 5. **Görselleştirme ve Donanım Çıkışı:** Tespit edilen manevra GPIO LED'leri ile gösterilirken, UART telemetrisi ile PyOpenGL simülatöründeki 3D uçak modeli anlık yönlendirilir.
 
 ---
+## 📸 Genel Sistem
 
+<p align="center">
+  <img src="media/genel_sistem.jpg" width="35%" alt="MPU6050, Ledler ve STM32" />
+</p>
+
+---
 ### Donanım Bağlantıları
 
 * **MPU6050 SCL:** Nucleo `PB8` (D15)
