@@ -1,0 +1,1 @@
+# STM32_TinyML_Ucus_Manevra_Siniflandirma
