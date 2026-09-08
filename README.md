@@ -23,7 +23,7 @@ Bu proje; STM32F446RE mikrodenetleyici ve MPU6050 IMU sensörü kullanarak temel
 ## 📸 Genel Sistem
 
 <p align="center">
-  <img src="media/genel_sistem.jpg" width="35%" alt="MPU6050, Ledler ve STM32" />
+  <img src="media/genel_sistem.jpg" width="70%" alt="MPU6050, Ledler ve STM32" />
 </p>
 
 ---
