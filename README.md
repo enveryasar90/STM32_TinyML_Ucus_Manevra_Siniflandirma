@@ -4,6 +4,13 @@ Bu proje; STM32F446RE mikrodenetleyici ve MPU6050 IMU sensörü kullanarak temel
 
 ---
 
+## 🎬 Proje Demosu
+
+![Uçuş Kontrolcüsü Demo](media/ledler_ve_mpu6050.gif)
+
+---
+---
+
 ### Sistem Mimarisi ve Çalışma Mantığı
 
 1. **Veri Toplama ve Filtreleme:** MPU6050 sensöründen I2C ile 50 Hz hızında 6 eksen ham veri okunur. Titreşim ve kaymaları önlemek için Tamamlayıcı Filtre (Complementary Filter) ile açısal yönelim (Roll/Pitch) hesaplanır.
